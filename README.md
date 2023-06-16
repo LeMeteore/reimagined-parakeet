@@ -1,2 +1,2 @@
 # reimagined-parakeet
-Desc
+Description détaillée du README
