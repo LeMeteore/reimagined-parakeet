@@ -4,3 +4,7 @@ def f():
 
 def g():
     return 45
+
+
+def h():
+    return 50
